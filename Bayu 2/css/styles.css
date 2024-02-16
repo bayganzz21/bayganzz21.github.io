@@ -1,0 +1,44 @@
+*{
+    font-family: Arial;
+}
+
+/* Header */
+
+.header {
+    display: flex;
+    background-color: burlywood;
+    padding: 10px;
+}
+
+.header-logo {
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+.header-logo img {
+    height: 100px;
+}
+
+.header-title {
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+.header-title a {
+    text-decoration: none;
+    font-size: 24px;
+    font-weight: bold;
+    color: black;
+}
+
+/* Nav Bar */
+
+.nav {
+    background-color: black;
+    padding: 10px
+    margin-top:0%
+}
+
+.nav-item {
+    display: inline-block;
+}
