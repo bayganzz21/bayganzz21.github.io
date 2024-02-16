@@ -1,0 +1,10 @@
+p.warna{color: blueviolet;}
+p.Decor{text-decoration: underline;}
+p.space{letter-spacing: 10px;}
+p.space_word{word-spacing: 10px;}
+p.inden{text-indent: 10px;}
+p.besar{text-transform: uppercase;}
+p.kecil{text-transform: lowercase;}
+p.kapital{text-transform: capitalize;}
+p.shadow{text-shadow: 2px 2px 10px #0fa57f;}
+p.rata{text-align: center;}
